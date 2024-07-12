@@ -42,3 +42,6 @@ To get started with Vibely, follow these steps:
 2. Install dependencies: npm install
 3. Configure environment variables for MongoDB, Cloudinary, and GitHub OAuth.
 4. Run the development server: npm run dev
+
+## Acknowledgement
+For better understanding click - https://youtu.be/hBKBHfsBRIE?si=E5HtqXbexNRg3hz1
